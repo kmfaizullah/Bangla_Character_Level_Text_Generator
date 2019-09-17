@@ -17,4 +17,4 @@ Install requirements packages by running the following command <br>
 Keep Bangla wiki corpus data into data forlder. 
 ## Results
 <p><h5> X-axis indicares predicted class and Y-axis indicates original class. </h5> </p>
-<img src="Images/result_ctg.png" width="1050" height="350">
+<img src="Images/result_ctg.png" width="600" height="200">
