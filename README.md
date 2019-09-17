@@ -9,5 +9,6 @@ level performance. </p>
 3. Python 3.6.7
 4. Keras 2.2.4 
 
-
-
+## Requirements 
+Install requirements packages by the following command 
+```pip install -r requirments.txt```
