@@ -12,3 +12,6 @@ level performance. </p>
 ## Requirements 
 Install requirements packages by running the following command <br>
 ```pip install -r requirments.txt```
+
+## Data-Set
+Keep Bangla wiki corpus data into data forlder. 
