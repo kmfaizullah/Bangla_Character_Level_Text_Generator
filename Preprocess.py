@@ -1,12 +1,9 @@
 import gzip
-import gensim 
 import logging
 import pickle
 import os
 import json
 import pandas as pd
-from gensim.models import KeyedVectors
-from gensim.models import Word2Vec
 
 class Process:
     def __init__(self, data_directory,length):
