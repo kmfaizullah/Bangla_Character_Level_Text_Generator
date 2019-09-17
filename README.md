@@ -10,5 +10,5 @@ level performance. </p>
 4. Keras 2.2.4 
 
 ## Requirements 
-Install requirements packages by the following command <br>
+Install requirements packages by running the following command <br>
 ```pip install -r requirments.txt```
